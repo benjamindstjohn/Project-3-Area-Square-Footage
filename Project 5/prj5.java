@@ -1,13 +1,14 @@
-   // <====================> //
-  // Program Assignment #2  //
- // <====================> //
 
 
+   //<===================>//
+  //      Project 5      //
+ //<===================>//
 
 
   //  Starting Point of Java Program  //
  //  ==============================  //
 //  ==============================  //
+
 
 public class prj5 {
     public static void main(String[]args) {
@@ -45,12 +46,12 @@ System.out.println();
 System.out.println("The total square footage of the room:");
 System.out.println("\t = " + mtsqtotal + " " + Q);
 
+       
   //  Ending Point of Java Program  //
  //  ============================  //
 //  ============================  //
 
 
-
-
     }
 }
+
